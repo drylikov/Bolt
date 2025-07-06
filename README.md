@@ -30,6 +30,8 @@ Pull requests and issues are welcome. I also suggest you to put this repo on wat
 #### Crawling
 Bolt crawls the target website to the specified depth and stores all the HTML forms found in a database for further processing.
 
+
+
 #### Evaluating
 In this phase, Bolt finds out the tokens which aren't strong enough and the forms which aren't protected.
 
