@@ -47,6 +47,8 @@ Tokens are also compared against a database of 250+ hash patterns.
 ##### Observing
 In this phase, 100 simultaneous requests are made to a single webpage to see if same tokens are generated for the requests.
 
+
+
 ##### Testing
 This phase is dedicated to active testing of the CSRF protection mechanism. It includes but not limited to checking if protection exsists for moblie browsers, submitting requests with self-generated token and testing if token is being checked to a certain length.
 
