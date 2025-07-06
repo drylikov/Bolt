@@ -42,6 +42,8 @@ This phase focuses on detection on replay attack scenarios and hence checks if a
 It also calculates the average [levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) between all the tokens to see if they are similar.\
 Tokens are also compared against a database of 250+ hash patterns.
 
+
+
 ##### Observing
 In this phase, 100 simultaneous requests are made to a single webpage to see if same tokens are generated for the requests.
 
