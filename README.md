@@ -25,6 +25,8 @@ Pull requests and issues are welcome. I also suggest you to put this repo on wat
 
 ### Workflow
 
+
+
 #### Crawling
 Bolt crawls the target website to the specified depth and stores all the HTML forms found in a database for further processing.
 
