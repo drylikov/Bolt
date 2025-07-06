@@ -21,6 +21,8 @@
 Bolt is in beta phase of development which means there can be bugs. Any production use of this tool discouraged.
 Pull requests and issues are welcome. I also suggest you to put this repo on watch if you are interested in it.
 
+
+
 ### Workflow
 
 #### Crawling
