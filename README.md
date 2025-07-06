@@ -87,6 +87,3 @@ Other options and switches:
 - `--timeout` http request timeout
 - `--headers` supply http headers
 
-#### Credits
-Regular Expressions for detecting hashes are taken from [hashID](https://github.com/psypanda/hashID).\
-Bit level entropy tests are taken from [highfestiva](https://github.com/highfestiva)'s python implementation of statistical tests.
