@@ -12,6 +12,7 @@
 <h4 align="center">A dumb CSRF scanner</h4>
 
 
+
 ![demo](https://i.ibb.co/mTtHTGP/Screenshot-2018-12-30-03-42-26.png)
 
 ### Important
