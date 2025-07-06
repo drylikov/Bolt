@@ -52,6 +52,8 @@ In this phase, 100 simultaneous requests are made to a single webpage to see if 
 ##### Testing
 This phase is dedicated to active testing of the CSRF protection mechanism. It includes but not limited to checking if protection exsists for moblie browsers, submitting requests with self-generated token and testing if token is being checked to a certain length.
 
+
+
 ##### Analysing
 Various statistical checks are performed in this phase to see if the token is really random.
 Following tests are performed during this phase
