@@ -35,6 +35,8 @@ Bolt crawls the target website to the specified depth and stores all the HTML fo
 #### Evaluating
 In this phase, Bolt finds out the tokens which aren't strong enough and the forms which aren't protected.
 
+
+
 ##### Comparing
 This phase focuses on detection on replay attack scenarios and hence checks if a token has been issued more than one time.
 It also calculates the average [levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) between all the tokens to see if they are similar.\
