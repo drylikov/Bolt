@@ -7,6 +7,8 @@
   <br>
 </h1>
 
+
+
 <h4 align="center">A dumb CSRF scanner</h4>
 
 
